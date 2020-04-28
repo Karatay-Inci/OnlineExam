@@ -1,4 +1,4 @@
-package CODINGBAT;
+package PracticeIT;
 
 public class P22 {
      public static void main (String [] args) {

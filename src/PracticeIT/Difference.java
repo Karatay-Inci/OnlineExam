@@ -1,6 +1,6 @@
-package CODINGBAT;
+package PracticeIT;
 
-public class BJP3ExerciseDifference {
+public class Difference {
     public static void main(String[] args) {
         System.out.println("What is the difference between");
         System.out.println("a ' and a \"?  Or between a \" and a \\\"?");

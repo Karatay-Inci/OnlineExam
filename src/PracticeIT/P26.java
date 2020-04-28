@@ -1,4 +1,4 @@
-package CODINGBAT;
+package PracticeIT;
 
 public class P26 {
     public static void method1(){

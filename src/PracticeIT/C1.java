@@ -1,4 +1,4 @@
-package CODINGBAT;
+package PracticeIT;
 
 public class C1 {
     /*  The parameter weekday is true if it is a weekday, and the parameter vacation is true if we are on vacation.
