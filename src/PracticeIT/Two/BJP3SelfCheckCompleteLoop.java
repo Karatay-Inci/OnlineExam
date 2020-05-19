@@ -1,4 +1,4 @@
-package PracticeIT;
+package PracticeIT.Two;
 
 public class BJP3SelfCheckCompleteLoop {
     public static void main(String[] args) {
