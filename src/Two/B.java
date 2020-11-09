@@ -1,4 +1,4 @@
-package PracticeIT.Two;
+package Two;
 
 public class B {
     public static void main(String[] args) {

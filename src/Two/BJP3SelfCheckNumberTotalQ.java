@@ -1,4 +1,4 @@
-package PracticeIT.Two;
+package Two;
 
 public class BJP3SelfCheckNumberTotalQ {
     public static void main(String[] args) {
