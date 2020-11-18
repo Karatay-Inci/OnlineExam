@@ -11,12 +11,13 @@ public class A15Front3 {
     front3("Chocolate") → "ChoChoCho"
     front3("abc") → "abcabcabc"*/
     public static void main(String[] args) {
-        System.out.println(front3("cani "));
+        System.out.println(front3("can"));
 
     }
-    public static String front3(String str){   //???????????
-        if (str.length() <=2){
-            return str+str+str;
+    public static String front3(String str){
+        String result="";
+        if (str.length() <3){
+            result =str+" "+str+" "+str;  //??????/
         }
         String newStr =str.substring(0,3);
         return newStr+newStr+newStr;

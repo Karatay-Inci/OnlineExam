@@ -9,10 +9,18 @@ public class A16front22 {
     front22("Ha") → "HaHaHa"
     front22("abc") → "ababcab"*/
     public static void main(String[] args) {
-      //  System.out.println(front22("abc"));
+        System.out.println(front22("aab"));
 
     }
-    /*public static String front22(String str){
+    public static String front22(String str){
+        String front;
+        if (str.length()<2){
+            front=str;
+        }
+        else {
+            front=str.substring(0,2);
+        }
+        return front+str+front;
 
-    }*/
+    }
 }
