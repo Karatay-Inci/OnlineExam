@@ -1,4 +1,4 @@
-package CODINGBAT;
+package CODINGBATwarmup1;
 
 public class A13BackAround {
     /*Given a string, take the last char and return a new string with the last char added at the front and back,

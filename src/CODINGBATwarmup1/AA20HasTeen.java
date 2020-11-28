@@ -1,4 +1,4 @@
-package CODINGBAT;
+package CODINGBATwarmup1;
 
 public class AA20HasTeen {
     /*

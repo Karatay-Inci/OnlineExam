@@ -1,4 +1,4 @@
-package CODINGBAT;
+package CODINGBATwarmup1;
 
 public class A12FrontBack {
     /*

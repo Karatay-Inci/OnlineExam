@@ -1,4 +1,4 @@
-package CODINGBAT;
+package CODINGBATwarmup1;
 
 public class A9NotString {
     /*Given a string, return a new string where "not " has been added to the front.

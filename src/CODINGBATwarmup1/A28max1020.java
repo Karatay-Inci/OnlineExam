@@ -1,4 +1,4 @@
-package CODINGBAT;
+package CODINGBATwarmup1;
 
 public class A28max1020 {
     /* Given 2 positive int values, return the larger value that is in the range 10..20 inclusive,
@@ -8,7 +8,7 @@ public class A28max1020 {
      max1020(19, 11) → 19
      max1020(11, 9) → 11*/
     public static void main(String[] args) {
-        System.out.println(max1020(12, 13));
+        System.out.println(max1020one(12, 13));
     }
 
     public static int max1020(int a, int b) {

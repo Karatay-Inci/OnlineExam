@@ -1,4 +1,4 @@
-package CODINGBAT;
+package CODINGBATwarmup1;
 
 public class A22delDel {
     /* Given a string, if the string "del" appears starting at index 1,
